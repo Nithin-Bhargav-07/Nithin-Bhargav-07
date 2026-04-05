@@ -4,7 +4,7 @@
 
 <br/>
 
-> *"The best way to predict the future is to build it."* — Alan Kay
+> *"The best error message is the one that never shows up."* -Thomas Fuchs
 
 <br/>
 
@@ -44,6 +44,7 @@ Tools       →  Git · GitHub
 
 | | project | description |
 |---|---|---|
+|  | [**ProofCritic**](https://github.com/Nithin-Bhargav-07/ProofCritic) | Multi-agent AI that peer-reviews research papers · 3 parallel sub-agents |
 |  | [**Money Manager**](https://github.com/Nithin-Bhargav-07) | MERN app with JWT auth, immutable 12hr ledger, CSV/PDF export |
 |  | [**3D Brain Tumor Segmentation**](https://github.com/Nithin-Bhargav-07) | PyTorch + MONAI · Dice Score 0.85 |
 |  | [**Real-Time Medical Assistant**](https://github.com/Nithin-Bhargav-07) | NLP chatbot for symptom recognition · low-latency backend |
