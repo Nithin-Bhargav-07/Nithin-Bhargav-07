@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00FFC8&center=true&vCenter=true&width=500&lines=Nithin+Bhargav+G;ML+Engineer;Full-Stack+Developer" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00FFC8&center=true&vCenter=true&width=500&lines=Nithin+Bhargav+G;ML+Engineer" alt="Typing SVG" />
 
 <br/>
 
@@ -16,16 +16,15 @@
 
 ---
 
-### about
+### About
 
-cs undergrad at RMK Engineering College `'27` · Chennai, India
+CS undergrad at RMK Engineering College `'27` · Chennai, India
 
-i work at the intersection of **machine learning** and **full-stack development** — building things that are production-ready, not just demos. currently deep into medical imaging AI and scalable web systems.
+I work at the intersection of **machine learning** and **full-stack development** — building things that are production-ready, not just demos. currently deep into medical imaging AI and scalable web systems.
 
-- 🧠 achieved **0.85 Dice Score** on 3D brain tumor segmentation from MRI scans
-- 🏆 finalist @ **IIT Madras** hackathons twice (E-Cell × Amazon, Shaastra × FedEx)
-- ☁️ certified on **AWS**, **Google Cloud**, and **ServiceNow**
-- 🔍 open to internships & research collaborations
+-  finalist @ **IIT Madras** hackathons twice (E-Cell × Amazon, Shaastra × FedEx)
+-  certified on **AWS**, **Google Cloud**, and **ServiceNow**
+-  open to internships & research collaborations
 
 ---
 
@@ -45,22 +44,20 @@ Tools       →  Git · GitHub
 
 | | project | description |
 |---|---|---|
-| 💰 | [**Money Manager**](https://github.com/Nithin-Bhargav-07) | MERN app with JWT auth, immutable 12hr ledger, CSV/PDF export |
-| 🧠 | [**3D Brain Tumor Segmentation**](https://github.com/Nithin-Bhargav-07) | PyTorch + MONAI · Dice Score 0.85 |
-| 🏥 | [**Real-Time Medical Assistant**](https://github.com/Nithin-Bhargav-07) | NLP chatbot for symptom recognition · low-latency backend |
+|  | [**Money Manager**](https://github.com/Nithin-Bhargav-07) | MERN app with JWT auth, immutable 12hr ledger, CSV/PDF export |
+|  | [**3D Brain Tumor Segmentation**](https://github.com/Nithin-Bhargav-07) | PyTorch + MONAI · Dice Score 0.85 |
+|  | [**Real-Time Medical Assistant**](https://github.com/Nithin-Bhargav-07) | NLP chatbot for symptom recognition · low-latency backend |
 
 ---
-
-### github stats
-
+ 
 <div align="center">
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nithin-Bhargav-07&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00ffc8&icon_color=00ffc8&text_color=c9d1d9&hide=prs)](https://github.com/Nithin-Bhargav-07)
+ 
+[![GitHub Stats](https://github-readme-stats-theta-eosin-24.vercel.app/api?username=Nithin-Bhargav-07&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00ffc8&icon_color=00ffc8&text_color=c9d1d9&hide=prs)](https://github.com/Nithin-Bhargav-07)
 &nbsp;&nbsp;
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nithin-Bhargav-07&layout=compact&hide_border=true&bg_color=0d1117&title_color=00ffc8&text_color=c9d1d9)](https://github.com/Nithin-Bhargav-07)
-
+[![Top Langs](https://github-readme-stats-theta-eosin-24.vercel.app/api/top-langs/?username=Nithin-Bhargav-07&layout=compact&hide_border=true&bg_color=0d1117&title_color=00ffc8&text_color=c9d1d9)](https://github.com/Nithin-Bhargav-07)
+ 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Nithin-Bhargav-07&theme=dark&hide_border=true&background=0d1117&ring=00ffc8&fire=00ffc8&currStreakLabel=00ffc8)](https://git.io/streak-stats)
-
+ 
 </div>
 
 ---
