@@ -10,7 +10,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/nithin-bhargav-g)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:gaddamnithinbhargav@gmail.com)
-![Profile Views](https://komarev.com/ghpvc/?username=Nithin-Bhargav-07&style=flat-square&color=00ffc8&label=views)
 
 </div>
 
