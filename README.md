@@ -22,7 +22,7 @@ CS undergrad at RMK Engineering College `'27` · Chennai, India
 I work at the intersection of **machine learning** and **Cloud development** — building things that are production-ready, not just demos. currently deep into AI agents and scalable web systems.
 
 -  finalist @ **IIT Madras** hackathons twice (E-Cell × Amazon, Shaastra × FedEx)
--  certified on **AWS**, **Google Cloud**, and **ServiceNow**
+-  certified on **ServiceNow**
 -  open to internships & research collaborations
 
 ---
